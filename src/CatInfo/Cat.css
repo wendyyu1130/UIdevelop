@@ -1,0 +1,13 @@
+.Cat{
+  font-family: 'Raleway',sans-serif;
+  margin:20px auto;
+  width:60%;
+  border:4px solid lightskyblue;
+  border-style:outset;
+  box-shadow:0 2px 3px #ccc;
+  padding:15px;
+  text-align:center;
+  color: #666;
+  background: #e3f2fd;
+  
+}
